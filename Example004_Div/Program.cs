@@ -1,3 +1,4 @@
-﻿int numberA= 8;
-int numberB = 2;
-int result = 
+﻿double numberA= 8;
+double numberB = 5;
+double result = (numberA / numberB);
+Console.WriteLine (result);
